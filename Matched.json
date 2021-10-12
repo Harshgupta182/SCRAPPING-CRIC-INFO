@@ -1,0 +1,338 @@
+[
+    {
+        "t1name": "New Zealand",
+        "t2name": "England",
+        "t1score": "241/8",
+        "t2score": "241",
+        "result": "Match tied"
+    },
+    {
+        "t1name": "Australia",
+        "t2name": "England",
+        "t1score": "223",
+        "t2score": "226/2",
+        "result": "England won by 8 wickets (with 107 balls remaining)"
+    },
+    {
+        "t1name": "New Zealand",
+        "t2name": "India",
+        "t1score": "239/8",
+        "t2score": "221",
+        "result": "New Zealand won by 18 runs"
+    },
+    {
+        "t1name": "South Africa",
+        "t2name": "Australia",
+        "t1score": "325/6",
+        "t2score": "315",
+        "result": "South Africa won by 10 runs"
+    },
+    {
+        "t1name": "Sri Lanka",
+        "t2name": "India",
+        "t1score": "264/7",
+        "t2score": "265/3",
+        "result": "India won by 7 wickets (with 39 balls remaining)"
+    },
+    {
+        "t1name": "Pakistan",
+        "t2name": "Bangladesh",
+        "t1score": "315/9",
+        "t2score": "221",
+        "result": "Pakistan won by 94 runs"
+    },
+    {
+        "t1name": "West Indies",
+        "t2name": "Afghanistan",
+        "t1score": "311/6",
+        "t2score": "288",
+        "result": "West Indies won by 23 runs"
+    },
+    {
+        "t1name": "England",
+        "t2name": "New Zealand",
+        "t1score": "305/8",
+        "t2score": "186",
+        "result": "England won by 119 runs"
+    },
+    {
+        "t1name": "India",
+        "t2name": "Bangladesh",
+        "t1score": "314/9",
+        "t2score": "286",
+        "result": "India won by 28 runs"
+    },
+    {
+        "t1name": "Sri Lanka",
+        "t2name": "West Indies",
+        "t1score": "338/6",
+        "t2score": "315/9",
+        "result": "Sri Lanka won by 23 runs"
+    },
+    {
+        "t1name": "England",
+        "t2name": "India",
+        "t1score": "337/7",
+        "t2score": "306/5",
+        "result": "England won by 31 runs"
+    },
+    {
+        "t1name": "Australia",
+        "t2name": "New Zealand",
+        "t1score": "243/9",
+        "t2score": "157",
+        "result": "Australia won by 86 runs"
+    },
+    {
+        "t1name": "Afghanistan",
+        "t2name": "Pakistan",
+        "t1score": "227/9",
+        "t2score": "230/7",
+        "result": "Pakistan won by 3 wickets (with 2 balls remaining)"
+    },
+    {
+        "t1name": "Sri Lanka",
+        "t2name": "South Africa",
+        "t1score": "203",
+        "t2score": "206/1",
+        "result": "South Africa won by 9 wickets (with 76 balls remaining)"
+    },
+    {
+        "t1name": "India",
+        "t2name": "West Indies",
+        "t1score": "268/7",
+        "t2score": "143",
+        "result": "India won by 125 runs"
+    },
+    {
+        "t1name": "New Zealand",
+        "t2name": "Pakistan",
+        "t1score": "237/6",
+        "t2score": "241/4",
+        "result": "Pakistan won by 6 wickets (with 5 balls remaining)"
+    },
+    {
+        "t1name": "Australia",
+        "t2name": "England",
+        "t1score": "285/7",
+        "t2score": "221",
+        "result": "Australia won by 64 runs"
+    },
+    {
+        "t1name": "Bangladesh",
+        "t2name": "Afghanistan",
+        "t1score": "262/7",
+        "t2score": "200",
+        "result": "Bangladesh won by 62 runs"
+    },
+    {
+        "t1name": "Pakistan",
+        "t2name": "South Africa",
+        "t1score": "308/7",
+        "t2score": "259/9",
+        "result": "Pakistan won by 49 runs"
+    },
+    {
+        "t1name": "New Zealand",
+        "t2name": "West Indies",
+        "t1score": "291/8",
+        "t2score": "286",
+        "result": "New Zealand won by 5 runs"
+    },
+    {
+        "t1name": "India",
+        "t2name": "Afghanistan",
+        "t1score": "224/8",
+        "t2score": "213",
+        "result": "India won by 11 runs"
+    },
+    {
+        "t1name": "Sri Lanka",
+        "t2name": "England",
+        "t1score": "232/9",
+        "t2score": "212",
+        "result": "Sri Lanka won by 20 runs"
+    },
+    {
+        "t1name": "Australia",
+        "t2name": "Bangladesh",
+        "t1score": "381/5",
+        "t2score": "333/8",
+        "result": "Australia won by 48 runs"
+    },
+    {
+        "t1name": "South Africa",
+        "t2name": "New Zealand",
+        "t1score": "241/6",
+        "t2score": "245/6",
+        "result": "New Zealand won by 4 wickets (with 3 balls remaining)"
+    },
+    {
+        "t1name": "England",
+        "t2name": "Afghanistan",
+        "t1score": "397/6",
+        "t2score": "247/8",
+        "result": "England won by 150 runs"
+    },
+    {
+        "t1name": "West Indies",
+        "t2name": "Bangladesh",
+        "t1score": "321/8",
+        "t2score": "322/3",
+        "result": "Bangladesh won by 7 wickets (with 51 balls remaining)"
+    },
+    {
+        "t1name": "India",
+        "t2name": "Pakistan",
+        "t1score": "336/5",
+        "t2score": "212/6",
+        "result": "India won by 89 runs (D/L method)"
+    },
+    {
+        "t1name": "Afghanistan",
+        "t2name": "South Africa",
+        "t1score": "125",
+        "t2score": "131/1",
+        "result": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)"
+    },
+    {
+        "t1name": "Australia",
+        "t2name": "Sri Lanka",
+        "t1score": "334/7",
+        "t2score": "247",
+        "result": "Australia won by 87 runs"
+    },
+    {
+        "t1name": "West Indies",
+        "t2name": "England",
+        "t1score": "212",
+        "t2score": "213/2",
+        "result": "England won by 8 wickets (with 101 balls remaining)"
+    },
+    {
+        "t1name": "India",
+        "t2name": "New Zealand",
+        "t1score": "",
+        "t2score": "",
+        "result": "Match abandoned without a ball bowled"
+    },
+    {
+        "t1name": "Australia",
+        "t2name": "Pakistan",
+        "t1score": "307",
+        "t2score": "266",
+        "result": "Australia won by 41 runs"
+    },
+    {
+        "t1name": "Bangladesh",
+        "t2name": "Sri Lanka",
+        "t1score": "",
+        "t2score": "",
+        "result": "Match abandoned without a ball bowled"
+    },
+    {
+        "t1name": "South Africa",
+        "t2name": "West Indies",
+        "t1score": "29/2",
+        "t2score": "",
+        "result": "No result"
+    },
+    {
+        "t1name": "India",
+        "t2name": "Australia",
+        "t1score": "352/5",
+        "t2score": "316",
+        "result": "India won by 36 runs"
+    },
+    {
+        "t1name": "Afghanistan",
+        "t2name": "New Zealand",
+        "t1score": "172",
+        "t2score": "173/3",
+        "result": "New Zealand won by 7 wickets (with 107 balls remaining)"
+    },
+    {
+        "t1name": "England",
+        "t2name": "Bangladesh",
+        "t1score": "386/6",
+        "t2score": "280",
+        "result": "England won by 106 runs"
+    },
+    {
+        "t1name": "Pakistan",
+        "t2name": "Sri Lanka",
+        "t1score": "",
+        "t2score": "",
+        "result": "Match abandoned without a ball bowled"
+    },
+    {
+        "t1name": "Australia",
+        "t2name": "West Indies",
+        "t1score": "288",
+        "t2score": "273/9",
+        "result": "Australia won by 15 runs"
+    },
+    {
+        "t1name": "Bangladesh",
+        "t2name": "New Zealand",
+        "t1score": "244",
+        "t2score": "248/8",
+        "result": "New Zealand won by 2 wickets (with 17 balls remaining)"
+    },
+    {
+        "t1name": "South Africa",
+        "t2name": "India",
+        "t1score": "227/9",
+        "t2score": "230/4",
+        "result": "India won by 6 wickets (with 15 balls remaining)"
+    },
+    {
+        "t1name": "Sri Lanka",
+        "t2name": "Afghanistan",
+        "t1score": "201",
+        "t2score": "152",
+        "result": "Sri Lanka won by 34 runs (D/L method)"
+    },
+    {
+        "t1name": "Pakistan",
+        "t2name": "England",
+        "t1score": "348/8",
+        "t2score": "334/9",
+        "result": "Pakistan won by 14 runs"
+    },
+    {
+        "t1name": "Bangladesh",
+        "t2name": "South Africa",
+        "t1score": "330/6",
+        "t2score": "309/8",
+        "result": "Bangladesh won by 21 runs"
+    },
+    {
+        "t1name": "Afghanistan",
+        "t2name": "Australia",
+        "t1score": "207",
+        "t2score": "209/3",
+        "result": "Australia won by 7 wickets (with 91 balls remaining)"
+    },
+    {
+        "t1name": "Sri Lanka",
+        "t2name": "New Zealand",
+        "t1score": "136",
+        "t2score": "137/0",
+        "result": "New Zealand won by 10 wickets (with 203 balls remaining)"
+    },
+    {
+        "t1name": "Pakistan",
+        "t2name": "West Indies",
+        "t1score": "105",
+        "t2score": "108/3",
+        "result": "West Indies won by 7 wickets (with 218 balls remaining)"
+    },
+    {
+        "t1name": "England",
+        "t2name": "South Africa",
+        "t1score": "311/8",
+        "t2score": "207",
+        "result": "England won by 104 runs"
+    }
+]
