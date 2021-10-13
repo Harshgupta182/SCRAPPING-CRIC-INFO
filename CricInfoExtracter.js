@@ -169,33 +169,33 @@ function createMatchScorecardPdf(teamFolderName, homeTeam, match) {
 
         page.drawText(homeTeam, {
             x: 320,
-            y: 665,
-            size: 14,
+            y: 668,
+            size: 18,
            
             
         });
         page.drawText(match.vs, {
-            x: 320,
-            y: 635,
-            size: 14,
+            x: 60,
+            y: 545,
+            size: 18,
             
         });
         page.drawText(match.selfScore, {
-            x: 320,
-            y: 605,
-            size: 14,
+            x: 300,
+            y: 545,
+            size: 18,
           
         });
         page.drawText(match.oppScore, {
-            x: 320,
-            y: 575,
-            size: 14,
+            x: 480,
+            y: 545,
+            size: 18,
             
         });
         page.drawText(match.result, {
-            x: 320,
-            y: 545,
-            size: 14,
+            x: 180,
+            y: 435,
+            size: 16,
             
         });
 
